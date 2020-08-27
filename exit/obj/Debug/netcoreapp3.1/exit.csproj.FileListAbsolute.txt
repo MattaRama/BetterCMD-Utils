@@ -1,0 +1,9 @@
+C:\Users\Matt\source\repos\BetterCMD Utils\exit\bin\Debug\netcoreapp3.1\exit.deps.json
+C:\Users\Matt\source\repos\BetterCMD Utils\exit\bin\Debug\netcoreapp3.1\exit.dll
+C:\Users\Matt\source\repos\BetterCMD Utils\exit\bin\Debug\netcoreapp3.1\exit.pdb
+C:\Users\Matt\source\repos\BetterCMD Utils\exit\obj\Debug\netcoreapp3.1\exit.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\BetterCMD Utils\exit\obj\Debug\netcoreapp3.1\exit.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\BetterCMD Utils\exit\obj\Debug\netcoreapp3.1\exit.AssemblyInfo.cs
+C:\Users\Matt\source\repos\BetterCMD Utils\exit\obj\Debug\netcoreapp3.1\exit.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\BetterCMD Utils\exit\obj\Debug\netcoreapp3.1\exit.dll
+C:\Users\Matt\source\repos\BetterCMD Utils\exit\obj\Debug\netcoreapp3.1\exit.pdb

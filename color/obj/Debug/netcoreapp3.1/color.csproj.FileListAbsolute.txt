@@ -1,0 +1,13 @@
+C:\Users\Matt\source\repos\BetterCMD Utils\color\bin\Debug\netcoreapp3.1\color.exe
+C:\Users\Matt\source\repos\BetterCMD Utils\color\bin\Debug\netcoreapp3.1\color.deps.json
+C:\Users\Matt\source\repos\BetterCMD Utils\color\bin\Debug\netcoreapp3.1\color.runtimeconfig.json
+C:\Users\Matt\source\repos\BetterCMD Utils\color\bin\Debug\netcoreapp3.1\color.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\BetterCMD Utils\color\bin\Debug\netcoreapp3.1\color.dll
+C:\Users\Matt\source\repos\BetterCMD Utils\color\bin\Debug\netcoreapp3.1\color.pdb
+C:\Users\Matt\source\repos\BetterCMD Utils\color\obj\Debug\netcoreapp3.1\color.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\BetterCMD Utils\color\obj\Debug\netcoreapp3.1\color.AssemblyInfo.cs
+C:\Users\Matt\source\repos\BetterCMD Utils\color\obj\Debug\netcoreapp3.1\color.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\BetterCMD Utils\color\obj\Debug\netcoreapp3.1\color.dll
+C:\Users\Matt\source\repos\BetterCMD Utils\color\obj\Debug\netcoreapp3.1\color.pdb
+C:\Users\Matt\source\repos\BetterCMD Utils\color\obj\Debug\netcoreapp3.1\color.genruntimeconfig.cache
+C:\Users\Matt\source\repos\BetterCMD Utils\color\obj\Debug\netcoreapp3.1\color.csprojAssemblyReference.cache

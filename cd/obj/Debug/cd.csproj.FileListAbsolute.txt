@@ -1,0 +1,6 @@
+C:\Users\Matt\source\repos\BetterCMD Utils\cd\bin\Debug\cd.dll
+C:\Users\Matt\source\repos\BetterCMD Utils\cd\bin\Debug\cd.pdb
+C:\Users\Matt\source\repos\BetterCMD Utils\cd\obj\Debug\cd.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\BetterCMD Utils\cd\obj\Debug\cd.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\BetterCMD Utils\cd\obj\Debug\cd.dll
+C:\Users\Matt\source\repos\BetterCMD Utils\cd\obj\Debug\cd.pdb
